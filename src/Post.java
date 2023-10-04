@@ -8,8 +8,6 @@ public class Post {
     public boolean subscription;
 
     public FormDate birthday;
-    public int month;
-    public int year;
 }
 
 
